@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Count](https://count.getloli.com/get/@xiaotong6666.github.io?theme=rule34)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaotong6666)](https://github.com/xiaotong6666/)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaotong6666&show_icons=true&hide=contribs&show=reviews&theme=github_dark)](https://github.com/xiaotong6666/)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaotong6666)](https://github.com/xiaotong6666/)-->
+<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaotong6666&show_icons=true&hide=contribs&show=reviews&theme=github_dark)](https://github.com/xiaotong6666/)-->
